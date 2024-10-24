@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on...still figuring it out. 
 - 📫 How to reach me: sdiya.salam@gmail.com    
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I hate eating healthy but I still do it, haha
+- ⚡ Fun fact: Big fan of Star Wars and Ghibi works
 
 <!---
 diya-hash/diya-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
