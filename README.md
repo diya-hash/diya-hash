@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @diya-hash
-- 👀 I’m interested in reading books, learning new technologies, baking, sport activities and self-care. 
+- 👋 Hi, I’m Diya (pronoumced: Dee-ya) 
+- 👀 I’m interested in reading books, learning new technologies, baking, outdoor activities (table tennis, badminton and trail walking) and self-care. 
 - 🌱 I’m currently learning Terraform, AWS Services and Data Structures. 
 - 💞️ I’m looking to collaborate on...still figuring it out. 
 - 📫 How to reach me: sdiya.salam@gmail.com    
