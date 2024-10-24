@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diya (pronoumced: Dee-ya) 
+- 👋 Hi, I’m Diya (pronounced: Dee-ya) 
 - 👀 I’m interested in reading books, learning new technologies, baking, outdoor activities (table tennis, badminton and trail walking) and self-care. 
 - 🌱 I’m currently learning Terraform, AWS Services and Data Structures. 
 - 💞️ I’m looking to collaborate on...still figuring it out. 
