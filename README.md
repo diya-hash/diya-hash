@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Diya (pronounced: Dee-ya) 
-- 👀 I’m interested in reading books, learning new technologies, piano, baking, outdoor/indoor activities (table tennis, badminton and trail walking) and self-care. 
+- 👀 I’m interested in learning new technologies, problem-solving - Leetcode Handle: https://leetcode.com/u/s_diya/
 - 🌱 I’m currently learning Terraform, AWS Services and Data Structures. 
-- 💞️ I’m looking to collaborate on...still figuring it out. 
 - 📫 How to reach me: sdiya.salam@gmail.com    
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Big fan of Star Wars and Ghibli works
