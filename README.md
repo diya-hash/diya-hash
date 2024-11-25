@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Diya (pronounced: Dee-ya) 
 - 👀 I’m interested in learning new technologies, problem-solving:
-          - Leetcode Handle: https://leetcode.com/u/s_diya/  - Hackerrank handle: https://www.hackerrank.com/profile/sdiya_salam
+          - Leetcode Handle: https://leetcode.com/u/s_diya/
+          - Hackerrank handle: https://www.hackerrank.com/profile/sdiya_salam
 - 🌱 I’m currently learning Terraform, AWS Services and Data Structures. 
 - 📫 How to reach me: sdiya.salam@gmail.com    
 - 😄 Pronouns: she/her
